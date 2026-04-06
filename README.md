@@ -24,7 +24,7 @@ These programs are part of my academic coursework and cover basic to intermediat
 2. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kprem20/PPML_LAB_EXP
    ```
 3. Open the folder and run any file:
 
