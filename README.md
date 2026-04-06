@@ -15,6 +15,8 @@ These programs are part of my academic coursework and cover basic to intermediat
 * Lists, Tuples, Dictionaries
 * Object-Oriented Programming (OOP)
 * Exception Handling
+* Numpy arrays
+* Matplot library
 
 ## 💻 How to Run
 
